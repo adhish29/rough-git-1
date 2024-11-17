@@ -8,3 +8,5 @@ this is 5th text
 this is a hot fix
 
 this is a comment test for merge commit
+
+these changes are done in master branch
