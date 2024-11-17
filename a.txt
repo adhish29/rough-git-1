@@ -7,4 +7,4 @@ this is 5th text
 
 this is a hot fix
 
-this is a comment test for mrge commit
+this is a comment test for merge commit
