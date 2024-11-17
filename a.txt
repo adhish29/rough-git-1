@@ -6,3 +6,5 @@ this is 4th text
 this is 5th text
 
 this is a hot fix
+
+this is a comment test for mrge commit
