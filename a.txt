@@ -11,3 +11,10 @@ this is a comment test for merge commit
 
 these changes are done in master branch
 this is a hotfix-br chnage 001
+
+yoyo
+
+this is a squash message -1
+this is a squash message -2
+this is a squash message -3
+this is a squash message -4
