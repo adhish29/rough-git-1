@@ -18,3 +18,6 @@ this is a squash message -1
 this is a squash message -2
 this is a squash message -3
 this is a squash message -4
+
+
+this is cherry-pich message : 1
