@@ -21,3 +21,5 @@ this is a squash message -4
 
 
 this is cherry-pich message : 1
+
+this is cherry-pich message : 2
